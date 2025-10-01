@@ -1,4 +1,4 @@
-# TalentScout - AI/ML Hiring Assistant
+# TalentScout -  Your AI Hiring Assistant
 
 An intelligent hiring assistant chatbot that collects candidate details, parses tech stacks, and generates tailored technical questions. Built with Streamlit and a pluggable LLM client (OpenAI or deterministic fallback). Optional sentiment analysis is included.
 
